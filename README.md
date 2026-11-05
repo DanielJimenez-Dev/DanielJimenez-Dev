@@ -51,7 +51,7 @@
 
 - 💼 **Perfil:**
 
- Profesional en **Tecnicatura Universitaria en Programación (UTN) Argentina**, con background en **comercio Internacional**, especializado en análisis de procesos operativos y la optimización de negocios para crear soluciones tecnológicas eficientes.
+ Profesional en curso **Tecnicatura Universitaria en Programación (UTN) Argentina**, con background en **Comercio Internacional (IUNP) Venezuela**, especializado en análisis de procesos operativos y la optimización de negocios para crear soluciones tecnológicas eficientes.
 
 - 🎯 **Especialidades:** Desarrollo Full Stack con **Java (Spring Boot)**, **Python (FastAPI/Django)**, **React**, **TypeScript**, **AWS**, **Docker** y gestión de bases de datos relacionales/NoSQL (PostgreSQL, MySQL).
 
