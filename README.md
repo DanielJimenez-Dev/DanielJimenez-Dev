@@ -49,9 +49,14 @@
 
 ### 📌 Sobre Mí & Enfoque Profesional
 
-- 💼 **Perfil:** Profesional en Formación Superior en Programación (UTN) con más de 10 años de trayectoria en análisis operativo y procesos de negocio.
+- 💼 **Perfil:**
+
+ Profesional en **Tecnicatura Universitaria en Programación (UTN) Argentina**, con background en **comercio Internacional**, especializado en análisis de procesos operativos y la optimización de negocios para crear soluciones tecnológicas eficientes.
+
 - 🎯 **Especialidades:** Desarrollo Full Stack con **Java (Spring Boot)**, **Python (FastAPI/Django)**, **React**, **TypeScript**, **AWS**, **Docker** y gestión de bases de datos relacionales/NoSQL (PostgreSQL, MySQL).
+
 - 🚀 **Proyectos Destacados:**
+
   - 📦 **StockFlow / ControlStock:** Sistema completo de gestión e inventario y anaisis operativo.
   - 🛍️ **Mercadillo E-Commerce:** Plataforma Ecommerce que integra ecosistema en comercio internacional.
    - 🛒 **E-commerce Food Store:** Aplicación e-commerce funcional con filtrado por categorías, gestión de carrito y arquitecturas TypeScript.
