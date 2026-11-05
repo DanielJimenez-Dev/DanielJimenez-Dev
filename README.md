@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Banner principal optimizado y estable -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Daniel%20Jiménez&fontSize=45&fontColor=58a6ff&animation=fadeIn&desc=Full%20Stack%20%26%20Cloud%20Engineer&descSize=18&descAlign=50&descAlignY=70" width="100%" />
-
+# 💻 Daniel Alberto Jiménez Valderrama
 ### 🚀 Full Stack & Cloud Engineer
+
 *Transformando operaciones complejas en arquitecturas desacopladas y software de alto rendimiento.*
 
 <!-- Redes Profesionales Sociales y Logos respectivos -->
@@ -48,11 +47,15 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📌 Sobre Mí & Enfoque Profesional
 
-<div align="center">
+- 💼 **Perfil:** Profesional en Formación Superior en Programación (UTN) con más de 10 años de trayectoria en análisis operativo y procesos de negocio.
+- 🎯 **Especialidades:** Desarrollo Full Stack con **Java (Spring Boot)**, **Python (FastAPI/Django)**, **React**, **TypeScript**, **AWS**, **Docker** y gestión de bases de datos relacionales/NoSQL (PostgreSQL, MySQL).
+- 🚀 **Proyectos Destacados:**
+  - 📦 **StockFlow / ControlStock:** Sistema completo de gestión e inventario y anaisis operativo.
+  - 🛍️ **Mercadillo E-Commerce:** Plataforma Ecommerce que integra ecosistema en comercio internacional.
+   - 🛒 **E-commerce Food Store:** Aplicación e-commerce funcional con filtrado por categorías, gestión de carrito y arquitecturas TypeScript.
+  - 🎙️ **Polo System Voice:** Módulo de asistencia y procesamiento por voz desarrollado en Python.
+  - 👓 **OpticFlow App:** plataforma de vanguardia para la exploración y gestión de activos visuales.
 
-<img src="https://github-readme-stats.vercel.app/api?username=DanielJimenez-Dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielJimenez-Dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
+---
